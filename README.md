@@ -1,4 +1,4 @@
-# UFOfloat  a, b, m, n, o, p;
+float  a, b, m, n, o, p;
 boolean shieldOn=false;
 void setup() {
 
@@ -74,4 +74,3 @@ void mousePressed() {
     shieldOn=false;
   }
 }
-A little game for my beggin
